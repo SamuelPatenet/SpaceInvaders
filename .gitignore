@@ -1,8 +1,7 @@
-/# Eclipse
-.classpath
-.project
-.settings/
+# Eclipse
+/.classpath
+/.project
+/.settings/
 
 # Maven
-target/
-/pom.xml
+/target/
